@@ -1,0 +1,118 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="home-content">
+
+    <!-- LADO ESQUERDO — TEXTO -->
+    <div class="text-side">
+        <h1>Entre em Contato</h1>
+        <p>
+            Precisa falar com a gente? Estamos à disposição para ajudar com informações,
+            suporte técnico ou qualquer dúvida relacionada aos nossos serviços.
+        </p>
+
+        <div class="contact-info">
+
+            <div class="contact-item">
+                <img src="{{ url_for('static', filename='images/email-icon.png') }}" class="icon">
+                <div>
+                    <h3>Atendimento por Email</h3>
+                    <p>suporte@cambiofacil.com</p>
+                </div>
+            </div>
+
+            <div class="contact-item">
+                <img src="{{ url_for('static', filename='images/phone-icon.png') }}" class="icon">
+                <div>
+                    <h3>Telefone / WhatsApp</h3>
+                    <p>(11) 9 8765-4321</p>
+                </div>
+            </div>
+
+            <div class="contact-item">
+                <img src="{{ url_for('static', filename='images/location-icon.png') }}" class="icon">
+                <div>
+                    <h3>Localização</h3>
+                    <p>Avenida Central, 123 — São Paulo, SP</p>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- BOTÃO DIRECIONANDO PARA O WHATSAPP -->
+        <a href="https://wa.me/5511987654321?text=Olá!%20Gostaria%20de%20falar%20com%20o%20suporte%20do%20Câmbio%20Fácil." 
+           class="btn-start" 
+           target="_blank"
+           style="margin-top: 45px;">
+            Entrar em Contato
+        </a>
+    </div>
+
+    <!-- LADO DIREITO — IMAGEM -->
+    <div class="image-side">
+        <img src="{{ url_for('static', filename='images/Group 27.png') }}" 
+             alt="Ilustração de contato">
+    </div>
+
+</section>
+
+<style>
+    .contact-info {
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 18px;
+    }
+
+    .contact-item {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        background: #ffffff10;
+        padding: 12px 16px;
+        border-radius: 10px;
+    }
+
+    .contact-item .icon {
+        width: 35px;
+        height: 35px;
+    }
+
+    .contact-item h3 {
+        margin: 0;
+        font-size: 17px;
+        font-weight: 600;
+    }
+
+    .contact-item p {
+        margin: 0;
+        opacity: .8;
+        font-size: 15px;
+    }
+
+@media (max-width: 480px) {
+    .contact-item {
+        flex-direction: column; /* Ícone em cima, texto embaixo */
+        align-items: flex-start; /* Alinha texto à esquerda */
+        text-align: left;        /* Garante que o texto não fique centralizado */
+        gap: 8px;                /* Espaçamento menor entre ícone e texto */
+    }
+
+    .contact-item .icon {
+        width: 40px;
+        height: 40px;
+    }
+
+    .contact-item h3 {
+        font-size: 16px;
+    }
+
+    .contact-item p {
+        font-size: 14px;
+    }
+}
+
+
+</style>
+
+{% endblock %}
