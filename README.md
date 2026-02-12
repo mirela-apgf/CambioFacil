@@ -1,4 +1,10 @@
-🌎 Languages: **English** | [Português](README.pt-BR.md)
+<p align="center">
+  🌐 <b>Languages:</b> 
+  <b>English 🇺🇸</b> • 
+  <a href="./README.pt-BR.md">Português 🇧🇷</a>
+</p>
+
+
 # 💱 Câmbio Fácil
 
 Web application developed in **Python (Flask)** for real-time currency exchange using an exchange rate API.  
