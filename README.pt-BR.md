@@ -1,4 +1,11 @@
-🌎 Idiomas: [English](README.md) | **Português**
+<p align="center">
+  🌐 <b>Idiomas:</b> 
+  <a href="./README.md">English 🇺🇸</a> • 
+  <b>Português 🇧🇷</b>
+</p>
+
+<br>
+
 # 💱 Câmbio Fácil
 
 Aplicação web desenvolvida em **Python (Flask)** para conversão de moedas em tempo real utilizando uma API de câmbio.  
