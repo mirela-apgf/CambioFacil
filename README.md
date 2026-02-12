@@ -41,15 +41,19 @@ Navigation is intuitive, allowing users to simulate exchanges quickly and monito
 <br>
 
 ## 📸 Application Interface
-
-### Home
-<img src="readme/imagens/Inicial.jpg" width="700"> 
-
-### About the Platform
-<img src="readme/imagens/Sobre.jpg" width="700"> 
-
-### Exchange Simulator
-<img src="readme/imagens/Conversao.jpg" width="700"> 
+<br>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left"><b>Home</b></td>
+    <td align="left"><b>About the Platform</b></td>
+    <td align="left"><b>Exchange Simulator</b></td>
+  </tr>
+  <tr>
+    <td><img src="readme/imagens/Inicial.jpg" width="350"></td>
+    <td><img src="readme/imagens/Sobre.jpg" width="350"></td>
+    <td><img src="readme/imagens/Conversao.jpg" width="350"></td>
+  </tr>
+</table>
 
 <br>
 
