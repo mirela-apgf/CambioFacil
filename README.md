@@ -4,7 +4,7 @@
   <a href="./README.pt-BR.md">Português 🇧🇷</a>
 </p>
 
-
+k
 # 💱 Câmbio Fácil
 
 Web application developed in **Python (Flask)** for real-time currency exchange using an exchange rate API.  
