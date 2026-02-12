@@ -1,53 +1,54 @@
-# 💱 CambioFacil
+🌎 Languages: **English** | [Português](README.pt-BR.md)
+# 💱 Cambio Facil
 
-Aplicação web desenvolvida em **Python (Flask)** para conversão de moedas em tempo real utilizando uma API de câmbio.  
-A plataforma permite que o usuário crie sua conta, realize conversões com valores atualizados, acompanhe o histórico de operações e gerencie seu perfil.
-
-<br>
-
-## 🚀 Funcionalidades
-
-- Cadastro e autenticação de usuários  
-- Conversão de moedas em tempo real  
-- Registro automático das operações realizadas  
-- Consulta ao histórico individual  
-- Edição de informações do perfil  
+Web application developed in **Python (Flask)** for real-time currency exchange using an exchange rate API.  
+The platform enables users to create an account, simulate conversions with live rates, track transaction history, and manage their profile.
 
 <br>
 
-## 🛠 Tecnologias
+## 🚀 Features
+
+- User registration and authentication  
+- Real-time exchange simulation  
+- Automatic transaction logging  
+- Personal conversion history  
+- Profile management  
+
+<br>
+
+## 🛠 Technologies
 
 - Python  
 - Flask  
 - HTML  
 - CSS  
 - JavaScript  
-- API de câmbio  
+- Exchange Rate API  
 
 <br>
 
-## 💡 Usabilidade
+## 💡 Usability
 
-O sistema foi projetado com foco em simplicidade e agilidade.  
-A navegação é intuitiva, permitindo que o usuário realize conversões rapidamente e acompanhe suas movimentações sem complexidade.
+The system was designed with a focus on simplicity and efficiency.  
+Navigation is intuitive, allowing users to simulate exchanges quickly and monitor their activities in a seamless way.
 
 <br>
 
-## 📸 Interface da Aplicação
+## 📸 Application Interface
 
-### Página Inicial
+### Home
 <img src="readme/imagens/Inicial.jpg" width="700"> 
 
-### Sobre o Sistema
+### About the Platform
 <img src="readme/imagens/Sobre.jpg" width="700"> 
 
-### Conversão de Moedas
+### Exchange Simulator
 <img src="readme/imagens/Conversao.jpg" width="700"> 
 
 <br>
 
-## ▶ Como executar o projeto 
+## ▶ How to Run the Project
 
-1. Clonar o repositório
-2. Instalar dependências
-3. Executar a aplicação
+1. Clone the repository  
+2. Install dependencies  
+3. Run the application
