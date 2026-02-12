@@ -42,15 +42,19 @@ A navegação é intuitiva, permitindo que o usuário realize conversões rapida
 <br>
 
 ## 📸 Interface da Aplicação
-
-### Página Inicial
-<img src="readme/imagens/Inicial.jpg" width="700"> 
-
-### Sobre o Sistema
-<img src="readme/imagens/Sobre.jpg" width="700"> 
-
-### Conversão de Moedas
-<img src="readme/imagens/Conversao.jpg" width="700"> 
+<br>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left"><b>Página Inicial</b></td>
+    <td align="left"><b>Sobre</b></td>
+    <td align="left"><b>Conversão de Moedas</b></td>
+  </tr>
+  <tr>
+    <td><img src="readme/imagens/Inicial.jpg" width="350"></td>
+    <td><img src="readme/imagens/Sobre.jpg" width="350"></td>
+    <td><img src="readme/imagens/Conversao.jpg" width="350"></td>
+  </tr>
+</table>
 
 <br>
 
