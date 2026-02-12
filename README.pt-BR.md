@@ -1,5 +1,5 @@
 🌎 Idiomas: [English](README.md) | **Português**
-# 💱 CâmbioFacil
+# 💱 Câmbio Fácil
 
 Aplicação web desenvolvida em **Python (Flask)** para conversão de moedas em tempo real utilizando uma API de câmbio.  
 A plataforma permite que o usuário crie sua conta, realize conversões com valores atualizados, acompanhe o histórico de operações e gerencie seu perfil.
