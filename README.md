@@ -1,5 +1,5 @@
 🌎 Languages: **English** | [Português](README.pt-BR.md)
-# 💱 Cambio Facil
+# 💱 Câmbio Facil
 
 Web application developed in **Python (Flask)** for real-time currency exchange using an exchange rate API.  
 The platform enables users to create an account, simulate conversions with live rates, track transaction history, and manage their profile.
